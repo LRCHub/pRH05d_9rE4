@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "奥底に眠るルーツ",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2026-02-10T11:16:47.180499Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "奥底に眠るルーツ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_奥底に眠るルーツ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "奥底に眠るルーツ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_奥底に眠るルーツ_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "奥底に眠るルーツ = Inner Heart",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/03_奥底に眠るルーツ_=_Inner_Heart_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "奥底に眠るルーツ - Inner Heart",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/04_奥底に眠るルーツ_-_Inner_Heart_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "奥底に眠るルーツ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_奥底に眠るルーツ_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
